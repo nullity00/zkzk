@@ -1,12 +1,10 @@
 # zkzk
 
-[YouTube Playlist](https://www.youtube.com/playlist?list=PLT1hJkhdLKWVYuxzwVe2JLfQpJLPftsjS)
-[Slides](https://drive.google.com/drive/folders/19UUOTrX6_QRJEtgJxic51wmTqgBOOuUK?usp=sharing)
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLT1hJkhdLKWVYuxzwVe2JLfQpJLPftsjS) | [Slides](https://drive.google.com/drive/folders/19UUOTrX6_QRJEtgJxic51wmTqgBOOuUK?usp=sharing)
 
 ## Week 1
 
 ### Plan 
-- Why ZK ? Where does Cryptography fall in ?
 - STARKS, SNARKS ..
 - Circom, lot of circom
 - Use circom to ship something of your choice
