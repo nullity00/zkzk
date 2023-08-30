@@ -41,26 +41,18 @@
 - Halo2 Circuit Layout
 - Breakdown Halo2
 - Build circuits : Fibonacci, Range Check & other simple ones
-- Fields, Affine Points, groups, ECC
-- Write an ECC operation circuit in Halo2, build a web app 
-- ECC in Solidity
+- Breaking down Axiom's Halo2 Open Source V1 projects 
 
 ## Week 4
 
-- Lookup Tables
-- Go through MIMC written in Halo2
-- More Halo2
+- More Halo2, Work on your Capstone Project !!
+- Go through Scroll's/ PSE's EVM Circuits
 - Pick a project idea from [here](https://github.com/nullity00/zk-blockchain-ideas)
 
 ## Week 5
 
-- Auditing circom codebases
+- Auditing circom / halo2 codebases
 - Going through Audit reports from Veridise, ABDK Consulting, Hexens
-- Breaking down Axiom's Halo2
-- Go through Scroll's EVM Circuits
-  
-## Week 6
-
 - Guest lecture on ZK Security // tudum .. the suspense
-- Work on your Capstone Project !!
+
 
